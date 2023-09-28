@@ -8,7 +8,6 @@ import 'package:flutter/material.dart';
 // Begin custom widget code
 // DO NOT REMOVE OR MODIFY THE CODE ABOVE!
 
-import 'package:example/pages/layered_example_page.dart';
 import 'package:just_the_tooltip/just_the_tooltip.dart';
 import 'package:skill_tree/skill_tree.dart';
 

@@ -1,7 +1,6 @@
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
-import '/custom_code/widgets/index.dart' as custom_widgets;
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
@@ -61,16 +60,7 @@ class _SkilltreeWidgetState extends State<SkilltreeWidget> {
           top: true,
           child: Column(
             mainAxisSize: MainAxisSize.max,
-            children: [
-              Container(
-                width: 360.0,
-                height: 900.0,
-                child: custom_widgets.SkillTreeWidget(
-                  width: 360.0,
-                  height: 900.0,
-                ),
-              ),
-            ],
+            children: [],
           ),
         ),
       ),
